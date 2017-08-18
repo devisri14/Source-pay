@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/ant-1.7.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/ant-launcher-1.7.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/bsh-2.0b4 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/bson-3.0.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/freemarker-2.3.23 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/hamcrest-core-1.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/jcommander-1.48 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/jsoup-1.8.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/junit-4.10 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/mongodb-driver-3.0.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/mongodb-driver-core-3.0.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/snakeyaml-1.15 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/testng-6.9.9 - Copy.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/extentreports-java-2.41.2-20161219T092432Z/extentreports-java-2.41.2/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/poi-3.15-20161219T093344Z/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/activation.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/commons-lang3-3.0 (1).jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/java-client-2.1.0.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/mail.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/pdfbox-app-2.0.5 (1).jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/selenium-android-driver-2.39.0.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="U:/permanent/Information_System/SQA/Selenium/AutomationScripts/JDE - Winfield/jarsZip/velocity-dep-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
